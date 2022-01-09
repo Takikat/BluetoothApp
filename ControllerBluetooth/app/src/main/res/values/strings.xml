@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Controller Bluetooth</string>
+    <string name="title">Controlleur Bluetooth</string>
+    <string name="DarkMode">Sombre</string>
+    <string name="StartBluetooth">Lancer le Bluetooth</string>
+    <string name="Light">Clair</string>
+    <string name="Dark">Dark</string>
+    <string name="up">Up</string>
+    <string name="left">Left</string>
+    <string name="down">Down</string>
+    <string name="right">Right</string>
+    <string name="DefaultText">Vous n\'etes pas connecter</string>
+    <string name="ConnectedText">Vous etes connecter</string>
+    <string name="DisconnectedText">Vous avez ete deconnecter</string>
+    <string name="ConnectingText">Vous etes en train de vous connecter</string>
+    <string name="NoDeviceText">Un probleme est survenue : erreur 3</string>
+    <string name="FailConnectText">Vous n\'avez pas reussi a vous connecter</string>
+    <string name="UnexpectedText">Un probleme est survenue : erreur 5</string>
+    <string name="connect">Connecter</string>
+    <string name="connecting">Connection</string>
+    <string name="disconnect">Deconnecter</string>
+</resources>
